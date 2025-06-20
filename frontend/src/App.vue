@@ -70,9 +70,7 @@ const messages = ref([
 
 // Dark Mode Logic
 const toggleDarkMode = () => {
-  console.log('toggleDarkMode: Avant, isDarkMode.value =', isDarkMode.value);
   isDarkMode.value = !isDarkMode.value;
-  console.log('toggleDarkMode: Après, isDarkMode.value =', isDarkMode.value);
 };
 
 onMounted(() => {
@@ -92,13 +90,11 @@ onMounted(() => {
 });
 
 watchEffect(() => {
-  console.log('watchEffect: Exécution. isDarkMode.value =', isDarkMode.value);
   // Applique la classe dark/light au document
   document.documentElement.classList.toggle('dark', isDarkMode.value);
   // Sauvegarde la préférence dans localStorage
   try {
     localStorage.setItem('lumi-theme', isDarkMode.value ? 'dark' : 'light');
-    console.log('watchEffect: localStorage mis à jour avec:', localStorage.getItem('lumi-theme'));
   } catch (e) {
     console.error("Erreur lors de la sauvegarde du thème dans localStorage:", e);
   }
