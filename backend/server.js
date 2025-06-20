@@ -1,17 +1,30 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import OpenAI from 'openai';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { makeClient, ensureIndex, retrieve } from './rag.js';
 
 dotenv.config();
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-const openai = new OpenAI({
-  apiKey: process.env.DEEPSEEK_API_KEY,
-  baseURL: 'https://api.deepseek.com'
-});
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const DATA_DIR = process.env.DATA_DIR || path.join(__dirname, '..', 'data');
+const INDEX_FILE = process.env.INDEX_FILE || path.join(__dirname, 'index.json');
+const EMBED_PROVIDER = process.env.EMBED_PROVIDER || 'openai';
+const CHAT_PROVIDER = process.env.CHAT_PROVIDER || 'openai';
+const EMBED_MODEL = process.env.EMBED_MODEL || 'text-embedding-3-small';
+const CHAT_MODEL = process.env.CHAT_MODEL || (CHAT_PROVIDER === 'deepseek' ? 'deepseek-chat' : 'gpt-4o-mini');
+
+const clientEmbed = makeClient(EMBED_PROVIDER);
+const clientChat = makeClient(CHAT_PROVIDER);
+let ragIndex;
+(async () => {
+  ragIndex = await ensureIndex({ dataDir: DATA_DIR, indexFile: INDEX_FILE, client: clientEmbed, embedModel: EMBED_MODEL });
+  console.log('RAG index ready');
+})();
 
 app.post('/api/lumi-stream', async (req, res) => {
   const { messages } = req.body;
@@ -21,9 +34,25 @@ app.post('/api/lumi-stream', async (req, res) => {
   res.setHeader('Connection', 'keep-alive');
 
   try {
-    const stream = await openai.chat.completions.create({
-      model: 'deepseek-chat',
-      messages,
+    const userMsg = messages.filter(m => m.role === 'user').slice(-1)[0];
+    const query = userMsg ? userMsg.content : '';
+    const retrieved = await retrieve(query, ragIndex, clientEmbed, EMBED_MODEL, 6);
+    const context = retrieved.map((r, i) => `Source ${i + 1}:\n${r.meta.text}`).join('\n\n');
+    const systemPrompt =
+      'Tu es LUMI, IA experte et bienveillante spécialisée dans l\'énergie. ' +
+      "Réponds UNIQUEMENT à partir des informations ci-dessous. Si la réponse n'y figure pas, " +
+      "réponds : « Je ne dispose pas de cette information dans ma base ». " +
+      'Réponses concises (≤200 mots) en français, cite la source [Source N] quand pertinent.\n\n' +
+      context;
+
+    const finalMessages = [
+      { role: 'system', content: systemPrompt },
+      ...messages.filter(m => m.role !== 'system')
+    ];
+
+    const stream = await clientChat.chat.completions.create({
+      model: CHAT_MODEL,
+      messages: finalMessages,
       stream: true
     });
 
@@ -39,10 +68,10 @@ app.post('/api/lumi-stream', async (req, res) => {
   } catch (error) {
     console.error('Streaming error:', error);
     res.write('data: [ERROR]\n\n');
-    const keepAlive = setInterval(() => res.write(':\n\n'), 15000); // commentaire ": " = ping SSE
     res.end();
   }
 });
-app.listen(3000, () => {
-  console.log('Server is running on http://localhost:3000');
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
