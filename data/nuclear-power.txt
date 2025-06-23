@@ -1,0 +1,360 @@
+Nuclear Power
+Energy system
+Electricity
+Nuclear Power
+Overview
+Tracking
+What is the role of nuclear power in clean energy transitions?
+Nuclear power accounts for about 10% of electricity generation globally, rising to almost 20% in advanced economies.  It has historically been one of the largest global contributors of carbon-free electricity and while it faces challenges in some countries, it has significant potential to contribute to power sector decarbonisation.
+Why does it matter to energy security?
+Nuclear power plants contribute to electricity security in multiple ways by keeping power grids stable and complementing decarbonisation strategies since, to a certain extent, they can adjust their output to accompany shifts in demand and supply. As the share of variable renewables like wind and solar photovoltaics (PV) rises, the need for such services will increase.
+What are the challenges?
+Nuclear power faces a contrasted future despite its ability to produce emissions-free power. With large up-front costs, long lead times and an often-poor record of on-time delivery, nuclear power projects have trouble in some jurisdictions competing against faster-to-install alternatives, such as natural gas or modern renewables. It also faces public opposition in many countries. Its uncertain future could result in billions of tonnes of additional carbon emissions.
+What is the role of nuclear power in clean energy transitions?
+Chevron down
+Nuclear power accounts for about 10% of electricity generation globally, rising to almost 20% in advanced economies.  It has historically been one of the largest global contributors of carbon-free electricity and while it faces challenges in some countries, it has significant potential to contribute to power sector decarbonisation.
+Why does it matter to energy security?
+Chevron down
+Nuclear power plants contribute to electricity security in multiple ways by keeping power grids stable and complementing decarbonisation strategies since, to a certain extent, they can adjust their output to accompany shifts in demand and supply. As the share of variable renewables like wind and solar photovoltaics (PV) rises, the need for such services will increase.
+What are the challenges?
+Chevron down
+Nuclear power faces a contrasted future despite its ability to produce emissions-free power. With large up-front costs, long lead times and an often-poor record of on-time delivery, nuclear power projects have trouble in some jurisdictions competing against faster-to-install alternatives, such as natural gas or modern renewables. It also faces public opposition in many countries. Its uncertain future could result in billions of tonnes of additional carbon emissions.
+Latest findings
+A new era for nuclear energy beckons as projects, policies and investments increase
+As the world’s second-largest source of low-emissions electricity after hydropower, nuclear power today produces just under 10% of global electricity supply. Now, fresh momentum around the world has the potential to open a new era for nuclear energy.
+Power generation from the global fleet of nearly 420 active nuclear reactors is set to reach a record high in 2025 as Japan restarts production, maintenance works are completed in France, and new reactors begin commercial operations in various markets, including China, Europe, India and Korea. Meanwhile, more than 60 nuclear reactors are currently under construction – representing over 70 gigawatts (GW) of capacity – and governments’ interest in nuclear power is at its highest level since the oil crisis in the 1970s, reflecting efforts to bolster energy security, accelerate clean energy transitions and meet rising demand for electricity. Over 40 countries now have plans to expand its use.
+The Path to a New Era for Nuclear Energy
+circle-arrow
+Nuclear power capacity by region in the Announced Pledges Scenario, 2010-2050
+Open
+expand
+Tracking Nuclear Electricity
+More efforts needed
+Nuclear power is an important low-emission source of electricity, providing about 10% of global electricity generation. For those countries where it is accepted, it can complement renewables in reducing power sector emissions while also contributing to electricity security as a dispatchable power source. It is also an option for producing low-emission heat and hydrogen.
+More efforts are needed to get
+nuclear
+power on track with the Net Zero Emissions by 2050 Scenario. Lifetime extensions of existing nuclear power plants are one of the most cost-effective sources of low-emission electricity, and there have been several positive policy developments to take full advantage of these opportunities including in the United States, France and Japan. Additional effort is needed to accelerate new constructions – 8 GW of new nuclear capacity was brought online in 2022, but the Net Zero Scenario calls for over four-times as much annual deployment by 2030. Support for innovation in nuclear power, including small modular reactors, will also help expand the range of low-emission options and widen the path to net zero power.
+Tracking Clean Energy Progress 2023
+circle-arrow
+Country and regional highlights
+Chevron down
+Many countries have recently taken steps to extend operations at existing nuclear power plants and build new ones.
+Many countries have recently taken steps to extend operations at existing nuclear power plants and build new ones.
+Countries and regions making notable progress to advance nuclear electricity include:
+Belgium
+recently decided to extend the operation of two existing reactors from 2025 to 2035, which will meet around 15% of electricity demand.
+Canada
+introduced an investment tax credit of up to 30% for clean energy technologies in late 2022, explicitly including small modular reactors (SMRs), and Canada’s Infrastructure Bank granted a loan to build an SMR as early as 2028 at an existing nuclear site.
+China
+continues to lead in nuclear capacity additions, with two large reactors completed in 2022, four more starting construction and plans to further accelerate deployment.
+Finland
+completed Olkiluoto 3 in 2023, the first new nuclear reactor in Western Europe in 15 years.
+France
+agreed in 2022 to construct 6 new large nuclear reactors that will meet around 10% of electricity demand, with an option to build 8 more. The first reactor is targeting 2035 for commissioning.
+Japan
+established a law in 2023 under the Green Transformation
+initiative that allows power companies to operate nuclear assets for longer, in some cases over 60 years, by excluding periods during which they were suspended for safety reasons. A new policy announced in December 2022 also aims to maximise the use of the existing fleet and foresees the development of new nuclear power plants.
+Korea
+aims for nuclear power to expand to over 30% of electricity generation by 2030 under the 10th Basic Energy Plan, up from 28% currently
+.
+In
+Poland,
+the cabinet formally approved in November 2022 the decision that the first nuclear power plant in Poland will use three Westinghouse AP1000 units. In addition, the development of APR1400 units are progressing, and SMRs continue to gain traction among the private sector.
+The United Kingdom
+'s 2022 Energy Security Strategy targets 8 new large reactors, as well as SMRs, to achieve nuclear power capacity of 24 GW by 2050, which could provide up to 25% of projected electricity demand.
+In the
+United States
+, the Inflation Reduction Act of 2022 created a tax credit for the production of zero-emission nuclear power, dramatically improving the economics of existing nuclear reactors
+with additional support for nuclear new-build also included.
+CO2 emissions
+Chevron down
+Nuclear power has avoided nearly 70 Gt of CO2 emissions over the past 50 years, concentrated among long-time market leaders.
+Nuclear power has avoided nearly 70 Gt of CO2 emissions over the past 50 years, concentrated among long-time market leaders.
+CO2 emissions avoided by nuclear by country or region, 1971-2022
+Open
+expand
+Nuclear power has been a part of electricity supply for more than 50 years, and over that period has avoided around 70 Gt of CO
+2
+emissions globally by reducing the need for coal, natural gas and oil (for context, total global CO
+2
+emissions from energy combustion and industrial processes were
+37 Gt in 2022
+). Without nuclear power, power sector CO
+2
+emissions in advanced economies would have been 60 Gt higher over the past 50 years, led by the United States and European Union. Emerging market and developing economies have recently seen strong growth in nuclear power, led by China and India, helping to cut some 9 Gt of emissions to date.
+To get on track with the Net Zero Scenario, nuclear power will need to continue expanding to reduce the need for unabated fossil fuels, at the same time as increasing power output from renewables.
+Energy
+Chevron down
+Nuclear power capacity increased slightly to 414 GW in 2022, but further expansion is needed to get on track with the Net Zero Scenario.
+Nuclear power capacity increased slightly to 414 GW in 2022, but further expansion is needed to get on track with the Net Zero Scenario.
+Nuclear power capacity by country or region in the Net Zero Scenario, 1990-2030
+Open
+expand
+In 2022, nuclear power capacity increased by about 1.5 GW globally (a 0.3% increase year-on-year), as nuclear power capacity additions outpaced more than 6 GW of retirements. Emerging market and developing economies (EMDEs) accounted for around 60% of new capacity additions, while more than half of retirements were in advanced economies such as Belgium, the United Kingdom and the United States.
+To get on track with the Net Zero Scenario, global nuclear capacity needs to expand by about 15 GW per year on average (just over 3% annual growth) to 2030, helping to maintain nuclear's share of electricity generation at around 10%. This expansion would need to occur in both advanced economies and EMDEs. Prioritising lifetime extensions in G7 members would bolster the low-emission foundation already in place and enable new nuclear capacity to increase the total.
+Technology deployment
+Chevron down
+Construction of nuclear power plants would need to accelerate significantly in the 2020s to align with the Net Zero Scenario.
+Construction of nuclear power plants would need to accelerate significantly in the 2020s to align with the Net Zero Scenario.
+Global nuclear power average annual capacity additions in the Net Zero Scenario, 1971-2030
+Open
+expand
+In 2022, 7.9 GW of new nuclear power capacity was brought online, a 40% increase on the previous year. China completed two reactors, marking the tenth year in a row that it added the most nuclear power capacity of any country. Projects were also completed in Finland, Korea, Pakistan and the United Arab Emirates. In addition, construction was started in 2022 on five reactors in China, two in Egypt and one in Türkiye.
+A new wave of nuclear construction in all active markets open to the technology, including in advanced economies, will be key to offset expected retirements and get onto a trajectory consistent with the Net Zero Scenario, stepping up global nuclear power capacity additions to around 22 GW per year on average in the 2020s.
+Innovation
+Chevron down
+New nuclear technologies, such as small modular reactors, can bolster the role of nuclear power.
+New nuclear technologies, such as small modular reactors, can bolster the role of nuclear power.
+Ambitions to reach net zero targets have encouraged innovation in nuclear power technologies such as SMRs, which generally have a rated capacity of under 300 MW per reactor, down to 10 MW (compared to more than 1 000 MW for many conventional reactors). Small modular reactors hold the promise of being more affordable and easier and faster to build than conventional large reactors. Close to 80 designs are currently under development, including several designs that are already in operation. Small modular reactors can potentially be factory-built and transported to the final location, shortening project timelines and potentially reducing construction risk and financing costs. As power systems decarbonise and the share of solar and wind rises, SMRs can contribute to meeting rising power system flexibility needs. They can also be used for heat and hydrogen production.
+Government support for SMRs  increased substantially in recent years, running well into the billions of US dollars, an order of magnitude higher than support just a few years ago. This support is unlocking public and private investment. Examples in 2022 and 2023 include:
+At the 2023 G7 Summit, the United States, Japan, Korea and the United Arab Emirates announced public-private support of up to USD 275 million for an SMR project in
+Romania
+, expected to be deployed in 2029.
+In the
+United States
+, the Department of Energy has launched the Advanced Reactor Demonstration Program. The first SMR in the United States is anticipated to be completed by NuScale around 2030.
+France
+, as part of its 2030 investment plan, plans to invest EUR 1 billion to develop SMR technologies.
+A co-operation agreement between United States-based energy company Holtec International and Ukrainian national nuclear operator Energoatom aims to install up to 20 SMRs in Ukraine by 2029.
+In
+Indonesia
+, SMR technology is being considered to supply electricity for an electrolysis-based ammonia fertiliser plant, to begin operations as early as 2028.
+In
+Japan
+, several companies have invested USD 80 million in a project to develop a molten salt reactor (MSR) nuclear power plant, with the aim of reaching commercialisation in the early 2030s.
+Canada
+launched New Small Modular Reactor Funding Program with CAD 30 million in funding to support Canada’s SMR industry and research on safe SMR waste management, as part of its SMR roadmap and action plan. SMR technology also benefits from the investment tax credit of up to 30% for clean technologies, introduced in November 2022.
+China
+has several advanced nuclear technologies under development, including the high-temperature gas-cooled reactor, with the first unit reaching initial full-power operation in 2022.
+Small modular reactors can also benefit from policy and regulatory reforms that streamline licensing and regulatory frameworks. Alongside learning from the first demonstration projects, these measures would accelerate deployment and drive down the cost of new projects.
+In order to meet the timelines required for widespread use in decarbonised systems, SMRs will also require further technological advancements. Generation III technologies, which focus on enhanced safety, include concepts already under construction that are expected to come online by 2030. Generation IV SMRs, which include liquid metal-cooled, molten salt-cooled and gas-cooled designs, are generally less advanced. Their ability to reach higher temperatures and potentially recycle used nuclear fuel makes them attractive technologies, provided progress continues within required timelines.
+Supporting infrastructure
+Chevron down
+Small modular reactors could expand opportunities for nuclear power, including in the development of hydrogen technologies and district heating networks.
+Small modular reactors could expand opportunities for nuclear power, including in the development of hydrogen technologies and district heating networks.
+Beyond electricity, opportunities for nuclear power could expand where other technologies make progress, including hydrogen production technologies and expansion of district heating networks. Small modular reactors, in particular, come in different sizes, configurations and output temperatures that can facilitate access to other industries where large light water nuclear reactors, because of their physical size and lower temperature requirements, cannot be used. Tapping into these markets could enable nuclear power to fulfil its full potential in energy transitions.
+Although most hydrogen today is made by steam reforming of natural gas or from coal gasification, demand for large volumes of low-emission hydrogen in the Net Zero Scenario provides new opportunities for nuclear power. This can be done in multiple ways, but the most technologically advanced option is to couple nuclear reactors with electrolysers, with several pilot projects involving both low- and high-temperature electrolysis. Applications to create hydrogen directly from nuclear power without the need for electrolysis are also being developed, including high-temperature thermochemical hydrogen production, which can achieve higher efficiencies by using the heat directly from the nuclear unit to split water into hydrogen and oxygen, helping reduce the costs of hydrogen production.
+In the Net Zero Scenario, demand for low-emission heat in district heating systems and in industry increases significantly due to the need to replace fossil fuel-based heating. Current reactor designs are already well adapted to providing district heating, and the smaller scale of SMRs means more localised district heat production could be possible. Moreover, the excess thermal energy created by nuclear electricity production can be injected into heating networks in a co-generation plant setup, significantly reducing the need for additional power plants.
+Policy
+Chevron down
+Nuclear power would get a boost from market designs that value dispatchable low-emissions capacity and targeted policies.
+Nuclear power would get a boost from market designs that value dispatchable low-emissions capacity and targeted policies.
+To reduce emissions in the power sector while simultaneously ensuring energy security, market designs need to adequately value both low-emission power generation and the full range of services needed from generation technologies. Nuclear’s ability to provide low-emission, dispatchable and flexible power boost its value to the system. As decarbonisation increases, these attributes become even more important and valuable to power systems.
+Carbon pricing puts an explicit value on the low-emissions benefits of nuclear power and is present in several electricity markets, including in the
+European Union
+,
+United States
+and
+China
+. Capacity mechanisms, which remunerate generators for making capacity available, are present in several markets in the
+United States
+and
+Europe
+, while ancillary service markets are established in more markets around the world and are evolving to reflect changing systems.
+Energy security concerns, particularly in the wake of Russia’s invasion of Ukraine, have also been linked to recent nuclear policy changes. In the
+United States
+,
+France
+,
+Belgium
+,
+Japan
+,
+Korea
+and other countries, additional lifetime extensions for existing nuclear reactors have been approved or signalled. In addition, plans to expand nuclear have been announced or accelerated, including in
+France
+, the
+United Kingdom
+,
+India
+and
+China
+.
+View all nuclear policies
+Policies and Measures database (PAMS)
+circle-arrow
+Investment
+Chevron down
+Investment in nuclear power needs to triple by 2030 from recent levels and scale up in many markets.
+Investment in nuclear power needs to triple by 2030 from recent levels and scale up in many markets.
+Average annual investment in nuclear power by country or region in the Net Zero Scenario, 2011-2030
+Open
+expand
+In 2016-2022, investment in nuclear averaged just over USD 40 billion per year. To align with the Net Zero Scenario, nuclear investment needs to scale up to about USD 125 billion per year in the late 2020s, more than triple the recent level. To achieve this objective, it will be critical for governments to reduce risks for investment in nuclear power wherever possible.
+Acknowledgements
+Chevron down
+We would like to thank the following external reviewers.
+We would like to thank the following external reviewers.
+Diane Cameron, OECD Nuclear Energy Agency, Reviewer
+Michel Berthélemy, OECD Nuclear Energy Agency, Reviewer
+Recommendations
+1
+Establish policy frameworks for nuclear power to reduce investment risk, enable financing and support innovation, while ensuring efficient and independent safety regulations
+Chevron down
+The following measures could be taken by governments to help advance nuclear electricity in support of clean energy transitions:
+Strengthen policy frameworks to systematically de-risk investment in low-emission projects
+, including nuclear power. Financing costs represent a large share of the total cost of nuclear power and other low-emission technologies. Policy measures to reduce the cost of capital present opportunities to reduce final costs to consumers throughout energy transitions.
+Support SMR demonstration projects with direct measures for financing
+, in particular addressing construction risks for first units, but also targeted at investment in essential fuel supply and R&D capabilities, talent and the development of licensing frameworks.
+Review national and international decarbonisation pathways
+in the light of technological progress for nuclear power, including SMRs, also considering new applications in sectors with hard-to-abate emissions.
+Promote efficient and effective safety regulation.
+Appropriate waste management and nuclear plant safety regulations remain crucial aspects of ensuring that safe nuclear power generation continues. This requires regulators to have the resources and skills needed to review new projects and develop harmonised safety criteria for new designs. By engaging with both developers and the public, they can ensure that licensing requirements are clearly communicated to all parties.
+2
+Collaborate internationally to shorten development timelines for nuclear power
+Chevron down
+International collaboration can accelerate the path to commercialisation for new nuclear technologies and drive down their costs. Co-ordinating the development of new designs and construction of commercial-scale projects can accelerate innovation by avoiding duplication. Regulation and approval of new designs can also benefit from international collaboration. For example, bilateral or multilateral collaboration for reviewing and approving designs could shorten the time to market and reduce the costs of individual designs reaching multiple markets. This could also foster standardisation, leading to faster implementation and lower project management costs. In instances where SMRs are factory-built and delivered largely intact to operational sites, planned collaboration across industry, regulators and legislators can reduce logistical obstacles.
+3
+Accelerate the development of SMRs, while strengthening supply chains and talent pipelines, and working to enhance public acceptability
+Chevron down
+In order to accelerate the development and deployment of SMRs, it is critical for developers to identify opportunities where SMR technologies can become a cost-effective low-emission source of electricity, heat and hydrogen. Pursuing multiple demonstration projects will strengthen SMR industries and promote earlier deployment.
+Expanding supply chains and talent pipelines calls for
+building on existing nuclear supply chains and on co-operation with other industries that have relevant experience and capabilities needed for SMR supply chains (e.g. shipbuilding for modular construction).
+Developers can also play an important role in co-leading public engagement with all relevant stakeholders, including engaging early and proactively with regulators to de-risk design development and accelerate licensing of new technologies; engaging with potential customers in the early design stages to ensure their needs are met in a safe manner; and engaging with local communities where SMRs are expected to be deployed to ensure transparency and access to information.
+Last update on 11 July 2023
+Authors and contributors
+Nuclear Power and Secure Energy Transitions
+This report expands upon the IEA’s landmark 2021 report, Net Zero by 2050: A Roadmap for the Global Energy Sector, by exploring in depth nuclear power’s potential role as a source of low emissions electricity that is available on demand to complement the leading role of renewables such as wind and solar in the transition to electricity systems with net zero emissions.
+Read more
+Nuclear Power and Secure Energy Transitions
+From today’s challenges to tomorrow’s clean energy systems
+Fuel report   — June 2022
+Related content
+All
+Data
+Reports
+News and commentaries
+All results
+circle-arrow
+ETP Clean Energy Technology Guide
+Interactive database of more than 600 individual technology designs and components across the whole energy system that contribute to achieving the goal of net-zero emissions
+Data explorer
+card data set
+The State of Energy Innovation
+Technology report   — April 2025
+Races to First in Energy Innovation
+The state of play for 18 key technology milestones related to energy security, sustainability and economic benefit that should be achievable by 2030.
+Data explorer
+card data set
+Global Energy Review 2025
+Flagship report   — March 2025
+The Path to a New Era for Nuclear Energy
+Fuel report   — January 2025
+Real-Time Electricity Tracker
+Explore and compare real-time data on electricity demand, generation and spot prices, trade, and CO2 emissions from more than 50 sources
+Data explorer
+card data set
+Energy Statistics Data Browser
+The most extensive selection of IEA statistics with charts and tables on 16 energy topics for over 170 countries and regions
+Data explorer
+card data set
+World Energy Investment 2023
+Flagship report   — May 2023
+Clean energy can help to ease the water crisis
+Commentary   — 22 March 2023
+Steering Electricity Markets towards a Rapid Decarbonisation
+Report   — June 2022
+Nuclear Power and Secure Energy Transitions
+From today’s challenges to tomorrow’s clean energy systems
+Fuel report   — June 2022
+World Energy Outlook 2021
+Flagship report   — October 2021
+The Role of Critical Minerals in Clean Energy Transitions
+Flagship report   — May 2021
+Global Energy Review 2021
+Assessing the effects of economic recoveries on global energy demand and CO2 emissions in 2021
+Flagship report   — April 2021
+Levelised Cost of Electricity Calculator
+Interactive table of LCOE estimates from Projected Costs of Generating Electricity 2020
+Data explorer
+card data set
+World Energy Outlook 2020
+Flagship report   — October 2020
+The Covid-19 crisis is undermining nuclear power’s important role in clean energy transitions
+Commentary   — 12 June 2020
+Global Energy Review 2020
+The impacts of the Covid-19 crisis on global energy demand and CO2 emissions
+Flagship report   — April 2020
+Winter challenges for energy security in France
+News   — 24 January 2017
+The long road from Paris: the carbon impact of new power generation
+News   — 23 September 2016
+Global energy investment down 8% in 2015 with flows signalling move towards cleaner energy
+News   — 16 September 2016
+Cities are in the frontline for cutting carbon emissions, new IEA report finds
+News   — 01 June 2016
+IEA urges Belgium to take a long-term approach to energy policy
+News   — 19 May 2016
+IEA backs Canada’s new energy and climate commitments
+News   — 25 February 2016
+Clean-energy innovation essential to meeting climate goals
+News   — 04 May 2015
+How the EU can progress towards an "Energy Union"
+News   — 01 December 2014
+Taking on the challenges of an increasingly electrified world
+News   — 12 May 2014
+IEA shows how Sweden can build on its impressive low-carbon successes
+News   — 05 June 2013
+IEA says further action is needed if Germany’s Energiewende is to maintain a balance between sustainability, affordability and competitiveness
+News   — 24 May 2013
+North America leads shift in global energy balance, IEA says in latest World Energy Outlook
+News   — 12 November 2012
+IEA Energy Technology Essentials: Nuclear Power
+Report   — March 2007
+Previous slide
+Next slide
+Explore more
+Energy system
+circle-arrow
+Hydrogen
+District Heating
+Coal
+Natural Gas
+Hydroelectricity
+Solar PV
+Wind
+Previous slide
+Next slide
+The Energy Mix
+Get updates on the IEA’s latest news, analysis, data and events delivered twice monthly.
+Error
+Subscribe
+View sample
+Explore our other newsletters
+Browse
+Topics
+Countries & regions
+Energy system
+Programmes
+Explore
+Reports
+Data & statistics
+Learn
+About
+News and commentaries
+Events
+Glossary
+Connect
+Contact
+Press
+Jobs
+arrow-north-east
+Delegates
+arrow-north-east
+Follow
+x (formally twitter)
+facebook
+linkedin
+youtube
+instagram
+bluesky
+IEA
+©IEA 2025
+Terms
+Privacy
+Back to top
+Authors and contributors
+Close dialog
+Lead authors
+Brent Wanner
+Ryota Taniguchi

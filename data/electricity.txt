@@ -1,0 +1,425 @@
+Electricity
+Energy system
+Electricity
+Overview
+Sources of electricity
+Tracking
+Why is electricity important?
+Electricity is central to many parts of life in modern societies and will become even more so as its role in transport and heating expands through widening use of electric vehicles and heat pumps. Power generation is currently the largest source of CO2 emissions globally, but it is also the sector that is leading the transition to net zero emissions through the rapid deployment of renewables such as solar and wind.
+What is the role of electricity in clean energy transitions?
+Efforts to address climate change are leading to the rapid electrification of numerous end-uses from transport to industry, driving a massive increase in power demand as well as the need to generate as much of it as possible from renewable sources. The result is a dramatic transformation of power systems globally, even if unabated fossil fuels still account for over 60% of total global electricity generation.
+Why does it matter to energy security?
+The current global energy crisis has placed electricity security and affordability high on the political agenda, favouring renewable solutions. But sunshine and wind are not always available, requiring a range of backup generation options as well as smarter and better-connected grids to manage this variability. Further policy action is essential to ensure that rapid electrification is matched by equally rapid rollouts of low-carbon generation and the grids capable of coping with them.
+Why is electricity important?
+Chevron down
+Electricity is central to many parts of life in modern societies and will become even more so as its role in transport and heating expands through widening use of electric vehicles and heat pumps. Power generation is currently the largest source of CO2 emissions globally, but it is also the sector that is leading the transition to net zero emissions through the rapid deployment of renewables such as solar and wind.
+What is the role of electricity in clean energy transitions?
+Chevron down
+Efforts to address climate change are leading to the rapid electrification of numerous end-uses from transport to industry, driving a massive increase in power demand as well as the need to generate as much of it as possible from renewable sources. The result is a dramatic transformation of power systems globally, even if unabated fossil fuels still account for over 60% of total global electricity generation.
+Why does it matter to energy security?
+Chevron down
+The current global energy crisis has placed electricity security and affordability high on the political agenda, favouring renewable solutions. But sunshine and wind are not always available, requiring a range of backup generation options as well as smarter and better-connected grids to manage this variability. Further policy action is essential to ensure that rapid electrification is matched by equally rapid rollouts of low-carbon generation and the grids capable of coping with them.
+In this sector
+Electrification
+Previous page
+Nuclear Power
+Previous page
+Grid-scale Storage
+Previous page
+Smart Grids
+Previous page
+Renewable Integration
+Previous page
+Latest findings
+Previous slide
+Next slide
+Electricity consumption forecasted to grow growing at close to 4% annually through 2027
+The surge is set to be primarily driven by growing use of electricity for industrial production; increased demand for air conditioning; accelerating electrification, led by the transport sector; and the rapid expansion of data centres.
+Most of the additional demand over the next three years is poised to come from emerging and developing economies, which account for 85% of the demand growth. The trend is most pronounced in China, where electricity demand has been growing faster than the overall economy since 2020.
+Electricity 2025
+circle-arrow
+Change in electricity demand by region, 2021-2027
+Open
+expand
+Demand for electricity is taking off
+The contours of a new, more electrified energy system are coming into focus as global electricity demand soars, driven by factors such as the uptake of electric mobility, rising cooling demand and data centres and AI.
+Over the last decade, electricity use has grown at twice the pace of overall energy demand, with two-thirds of the global increase in electricity demand over the last ten years coming from China. In the years ahead, electricity demand growth is set to accelerate further, adding the equivalent of Japanese demand to global electricity use each year in a scenario based on today’s policy settings – and rising even more quickly in scenarios that meet national and global net zero goals.
+World Energy Outlook 2024
+circle-arrow
+Annual energy and electricity demand growth, historical and in the Stated Policies Scenario, 2010-2035
+Open
+expand
+Sources of electricity
+Coal
+Chevron down
+Coal still supplies just over a third of global electricity generation even though it is the most carbon-intensive fossil fuel
+Coal still supplies just over a third of global electricity generation even though it is the most carbon-intensive fossil fuel
+Read more
+Tracking Coal-fired Electricity
+circle-arrow
+Natural gas
+Chevron down
+In 2022 gas-fired generation remained relatively unchanged compared to 2021, representing more than 20% of global electricity generation
+In 2022 gas-fired generation remained relatively unchanged compared to 2021, representing more than 20% of global electricity generation
+Read more
+Tracking Natural Gas-fired Electricity
+circle-arrow
+Nuclear
+Chevron down
+Nuclear power is an important low-emission source of electricity, providing about 10% of global electricity generation
+Nuclear power is an important low-emission source of electricity, providing about 10% of global electricity generation
+Read more
+Tracking Nuclear Electricity
+circle-arrow
+Hydropower
+Chevron down
+Hydropower currently generates more electricity than all other renewable technologies combined is expected to remain the world’s largest source of renewable electricity generation into the 2030s
+Hydropower currently generates more electricity than all other renewable technologies combined is expected to remain the world’s largest source of renewable electricity generation into the 2030s
+Read more
+Tracking Hydroelectricity
+circle-arrow
+Wind
+Chevron down
+Wind remains the leading non-hydro renewable technology, with a record increase in generation in 2022
+Wind remains the leading non-hydro renewable technology, with a record increase in generation in 2022
+Read more
+Tracking Wind Electricity
+circle-arrow
+Solar PV
+Chevron down
+Solar PV electricity generation achieved another record increase in 2022, putting the technology on track with the 2030 milestones under the NZE Scenario
+Solar PV electricity generation achieved another record increase in 2022, putting the technology on track with the 2030 milestones under the NZE Scenario
+Read more
+Tracking Solar PV
+circle-arrow
+Tracking Electricity
+More efforts needed
+A fully decarbonised electricity sector is the essential foundation of a net zero energy system. Electricity is at the heart of modern economies, and its share of final energy consumption is projected to rise from 20% today to over 50% by 2050 in the Net Zero Emissions by 2050 Scenario as electricity demand increases rapidly to decarbonise end-use sectors. Unabated fossil fuels currently account for over 60% of total global electricity generation. To be consistent with the Net Zero Scenario, that share needs to drop rapidly to below 30% by 2030. The pace of deployment of low- and zero-emission sources has to pick up significantly in order to meet this milestone.
+Tracking Clean Energy Progress 2023
+circle-arrow
+Country and regional highlights
+Chevron down
+Renewables – a key pillar of electricity sector decarbonisation – continued to grow in 2022, boosted by ambitious policy developments
+Renewables – a key pillar of electricity sector decarbonisation – continued to grow in 2022, boosted by ambitious policy developments
+Wind and solar PV continued to grow strongly in 2022, with record-level additions in several regions, and recent policy developments are projected to further accelerate this growth. Countries and regions making notable progress include:
+2022 was a record year for renewable energy capacity growth in the
+European Union
+, with total additions exceeding 50 GW for the first time, a 42% increase compared to the previous year.
+The
+United States
+passed the Inflation Reduction Act (IRA) in August 2022, which expands support for renewables through tax credits and other measures and is expected to provide a significant boost to clean electricity investments over the next decade.
+China
+continues to lead in terms of net solar PV capacity additions, with around 100 GW added in 2022. Overall, more than 160 GW of renewable electricity were commissioned in 2022, accounting for almost half of global renewable capacity deployment.
+In 2022, two new Just Energy Transition Partnerships (JETP) were announced in
+Indonesia
+(with a budget of USD 20 billion) and
+Viet Nam
+(USD 15.5 billion) to support decarbonisation efforts, including a just transition away from coal power. JETP is a programme launched during COP26 in 2021 by France, Germany, the United Kingdom, the United States and the European Union – often called the International Partners Group – to make available the financial resources necessary to accelerate energy transitions and meet climate targets in coal-dependent emerging market and developing economies (EMDEs), while ensuring a just transition.
+CO2 emissions
+Chevron down
+Electricity sector emissions reached their highest-ever level in 2022
+Electricity sector emissions reached their highest-ever level in 2022
+Global power sector CO
+2
+emissions (from both electricity and heat production) increased by almost 220 Mt CO
+2
+in 2022, a 1.5% increase compared to 2021, reaching an all-time high of 14.8 Gt CO
+2
+. This was driven mostly by a strong increase in coal-fired electricity generation, emissions from which grew by nearly 240 Mt (2.2%) compared to the year before, primarily as a result of gas-to-coal switching due to record natural gas prices in many regions. Electricity generation accounts for more than 90% of power sector emissions, far greater than the contribution from heat production.
+Electricity and heat CO2 emissions in the Net Zero Scenario, 2000-2030
+Open
+expand
+Current trends are not on track with Net Zero Scenario milestones, which see power sector emissions fall by nearly 9% per year to 2030, reaching an emissions intensity of around 165 g CO
+2
+/kWh (a 65% reduction relative to 460 g CO
+2
+/kWh today), and the sector then becoming completely decarbonised by 2045.
+Energy
+Chevron down
+2022 saw another rise in global electricity demand, which was met by increases in both renewable and coal-fired generation
+2022 saw another rise in global electricity demand, which was met by increases in both renewable and coal-fired generation
+Global electricity generation continued to grow in 2022, increasing by 2.4% (nearly 700 TWh) year-over-year, which is similar to the average annual growth observed over the previous 5 years. Record-level natural gas prices in the wake of Russia’s invasion of Ukraine led to natural gas-fired electricity generation stagnating at the global level, while nuclear electricity generation dropped by nearly 5% year-over-year, primarily due to maintenance outages at a large number of French nuclear plants and reduced output from Ukraine’s nuclear fleet. As a result, the increase in generation was shouldered almost exclusively by coal and renewables.
+Global coal-fired electricity generation rose by nearly 2% (185 TWh) in 2022, driven mainly by gas-to-coal switching triggered by very high natural gas prices in many regions. Though the year-on-year percentage change is far less than the 8% growth seen in 2021 following the Covid-19 pandemic-related drop in 2020, in terms of total generation, coal continued its record-breaking streak for the second year in a row, generating more than 10 000 TWh, accounting for 36% of total generation.
+Total renewable electricity generation reached another all-time high in 2022, exceeding 8 500 TWh, over 600 TWh (nearly 8%) more than in 2021. This increase was driven mostly by rising wind and solar PV production, which both grew by nearly 270 TWh. Hydropower output – still the world’s largest source of renewable electricity – increased by 70 TWh, although drought conditions continued to affect hydropower production in several regions including China, Europe and the United States. The share of renewables in global electricity generation reached nearly 30%, 1.5 percentage points higher than in 2021.
+Technology deployment
+Chevron down
+Low-emission technologies account for nearly 75% of all generation by 2030 in the Net Zero Scenario, compared with just 39% in 2022
+Low-emission technologies account for nearly 75% of all generation by 2030 in the Net Zero Scenario, compared with just 39% in 2022
+An important indicator of progress in the electricity sector’s clean energy transition is the share of low-emission technologies, including renewables, nuclear, carbon capture and storage and co-firing of ammonia and hydrogen. In 2022, almost 39% of generation came from low-emission technologies – an increase of nearly one percentage point from 2021, although far below the annual 4 percentage point increase needed to 2030 in the Net Zero Scenario.
+Getting on track with the Net Zero Scenario will require profound transformation in the electricity sector to limit CO
+2
+emissions, reduce air pollution and support energy access, with universal access achieved by 2030. A drastic shift is needed if nearly 75% of generation is to come from low-emission technologies by 2030.
+In the Net Zero Scenario, solar PV leads in installed capacity by the mid-2020s. The share of unabated coal declines sharply from 36% today to 11% in 2030, with about 4% of coal-fired generation from plants fitted with carbon capture, utilisation and storage (CCUS). The share of natural gas in the Net Zero Scenario generation mix remains stable in the short-term because of its lower CO
+2
+emissions, staying at around 22% until the mid-2020s and then declining to 15% in 2030.
+Shares of global electricity generation by source in the Net Zero Scenario, 2000-2030
+Open
+expand
+Policy
+Chevron down
+Stronger targets and increasing support in major markets are accelerating the deployment of renewables, but more efforts are needed to reduce unabated fossil generation
+Stronger targets and increasing support in major markets are accelerating the deployment of renewables, but more efforts are needed to reduce unabated fossil generation
+Several major energy-consuming countries and regions have stepped up their commitment to renewables:
+In March 2023, the
+European Union
+agreed to raise its binding target for the share of renewable energy in total energy consumption to 42.5% by 2030, with the ambition to reach 45%
+. This would double the existing share of renewable energy in the European Union.
+In its 14th Five-Year Plan for Renewable Energy, published in June 2022,
+China
+set a target of 33% of electricity generation to be from renewables by 2025, from around 30% today.
+In August 2022, the IRA was passed in the
+United States
+. It expands support for renewables and other clean energy technologies through tax credits and other measures and is expected to provide a significant boost to investments over the next ten years.
+In November 2021, at COP26,
+India
+announced new 2030 targets of 500 GW of total renewable capacity and a 50% renewable electricity generation share (more than double the 23% share in 2022), as well as net zero emissions by 2070.
+Despite progress on promoting renewables, emissions from fossil fuel generation continue to rise. Stronger policies targeting reductions in coal-fired generation are needed to ensure that progress in the deployment of renewables is not counteracted by increases in fossil generation.
+View all electricity policies
+Policies and Measures database (PAMS)
+circle-arrow
+Investment
+Chevron down
+Clean electricity investments, led by renewables, continued to increase in 2022
+Clean electricity investments, led by renewables, continued to increase in 2022
+Global investment in the electricity sector by technology, 2000-2023
+Open
+expand
+Electricity sector investment grew by 12% in 2022, exceeding USD 1 trillion for the first time. Investment is projected to increase further to USD 1.2 trillion in 2023, with more than USD 1 trillion flowing into renewables and grids alone.
+Developments in 2022 included the following:
+Despite cost and supply chain pressures, global investment in
+renewables
+increased to almost USD 600 billion in 2022, driven in particular by the rapid built-out of solar PV and wind (particularly in China). Investment in new capacity is expected to rise by another 10% in 2023, exceeding USD 650 billion.
+Investment in
+fossil fuel-based
+electricity generation increased marginally in 2022 to almost USD 110 billion, but this was still significantly lower than the annual average of USD 135 billion in the period 2016-2021. Spending on fossil fuel generation with CCUS rose but remains marginal at USD 1 billion.
+Spending on
+dispatchable low-emission technologies
+continued its downward investment trend, with increased spending on nuclear not able to compensate for a drop in hydropower investment.
+Investments in
+electricity grids
+increased a further 8% in 2022, but initial signs suggest that spending will flatten out in 2023. Most of the infrastructure investment is in advanced economies and China, driven by the need to enable greater electrification and to reinforce grids in electricity systems that are characterised by rising shares of variable renewables. Spending on grids in most emerging market and developing economies (EMDEs) is falling behind, a worrying signal given the prospect of rapid increases in electricity demand.
+Battery storage
+investment doubled in 2022 and is set for further growth in 2023, encouraged by the United States’ IRA and other incentives in Europe, Australia, China, Japan and Korea.
+In spite of high expectations for clean electricity,
+final investment decisions
+in 2022 show a mixed picture. While solar PV project approvals remained strong, offshore wind lagged behind. Final investment decisions for coal- and gas-fired plants reached their highest level since 2016, driven almost entirely by China, reflecting security of supply concerns.
+International collaboration
+Chevron down
+G7 countries recognise the need to end the construction of new unabated coal-fired power plants
+G7 countries recognise the need to end the construction of new unabated coal-fired power plants
+In April 2023 the Group of 7 (G7) Ministers of Climate, Energy and the Environment
+released a communiqué
+recognising the need to end the construction of new unabated coal-fired power generation, as called for in the NZE Scenario. The G7 leaders noted their intention to work with other countries to end new unabated coal-fired power generation projects world wide as soon as possible, in order to accelerate the clean energy transition in a just manner.
+Just Energy Transition Partnership expands to Indonesia and Viet Nam
+The JETP was launched during COP26 in 2021 by France, Germany, the United Kingdom, the United States and the European Union – often called the International Partners Group – to make available the financial resources necessary to accelerate just energy transitions and meet climate targets in coal-dependent EMDEs.
+During COP26, the International Partners Group announced USD 8.5 billion for a JETP in South Africa, and the programme has since expanded to other countries. In November 2022, Japan, the United States and other partners announced USD 20 billion for a JETP in Indonesia, and in December 2022 the International Partners Group announced USD 15.5 billion for Viet Nam’s JETP.
+Private sector strategies
+Chevron down
+Corporate power purchase agreements play a small but increasingly important role in supporting the deployment of variable renewables
+Corporate power purchase agreements play a small but increasingly important role in supporting the deployment of variable renewables
+An increasingly important factor in decarbonising the power sector is the private sector’s role in developing renewables through corporate power purchase agreements in which they sign a direct, long-term offtake contract with a renewable electricity producer for the generated electricity. In 2022,
+more than 50 GW of renewable electricity capacity
+was contracted through such agreements.
+Recommendations
+1
+Ensure long-term target and policy stability
+Chevron down
+Target and policy stability is essential in enabling the transition to a low-emission electricity sector by providing investors with the stability and long-term investment signals required to cost-effectively deploy capital-intensive low-emission technologies like renewables, nuclear and CCUS.
+2
+Establish carbon pricing and regulations
+Chevron down
+Carbon pricing, carbon taxes and the regulation of plant emissions can encourage coal-to-gas switching and provide an important long-term investment signal for low-emission technologies.
+3
+Shift policy to competitive auctions
+Chevron down
+Auctions for the centralised competitive procurement of renewables have become increasingly widespread in recent years and have been instrumental in discovering renewable energy prices and containing policy costs in many countries, especially for solar PV and wind. The success of such policies in achieving deployment and development objectives relies on their design and consequent ability to attract investment and competition.
+4
+Adapt market designs and policies to support variable renewables and increase flexibility
+Chevron down
+Accelerating the rollout of renewables is of vital importance to get on track with the Net Zero Scenario. Consistent targets and adequate policy support for renewables, for example through auctions, are necessary to achieving this ambition.
+Rising shares of variable renewables increase the flexibility requirements of the electricity system, and market designs should be adjusted to better reward the provision of flexibility, improving the business case for flexible generation, grid-scale storage and demand-side response.
+5
+Support CCUS deployment in the power sector
+Chevron down
+As CCUS in the power sector is still at an early stage of commercialisation, complementary and targeted policy measures such as tax credits and grant funding are needed to secure investment. Furthermore, new coal-fired units should be constructed CCUS-ready, with efficiencies consistent with global best practice (using supercritical or ultra-supercritical technologies).
+6
+International support is vital to accelerate coal transitions in emerging market and developing economies
+Chevron down
+Emerging market and developing economies will require international capital for a significant fraction of the investment needed to transition away from unabated coal. In addition to providing access to capital, public international actors, such as multilateral development banks, can play a vital catalytic role in raising domestic sources of finance and encouraging domestic public investment in clean energy. Packaging together different elements of coal transitions, as with the JETPs in Indonesia, South Africa and Viet Nam, can be an effective way to gain momentum, mobilise international support, and ensure overall policy coherence.
+7
+Leverage corporate power purchase agreements to develop renewables
+Chevron down
+Corporate renewable power purchase agreements can help accelerate the deployment of renewables. These long-term offtake contracts provide revenue certainty and thus reduce financing costs for the developers of renewable electricity projects. For large consumers of electricity, these agreements allow for predictable and stable energy costs and a guaranteed supply of low-emission electricity.
+Last update on 11 July 2023
+Authors and contributors
+Real-Time Electricity Tracker
+The IEA real-time electricity map displays electricity demand, generation and spot prices from more than 50 sources. Data is available historically, as well as daily or hourly, and at country or regional levels.
+Use data explorer
+card data set
+Related content
+All
+Data
+Reports
+News and commentaries
+All results
+circle-arrow
+Monthly Electricity Statistics
+Highlights and data explorer of monthly electricity production and trade data for all OECD member countries and electricity production data for a selection of other economies
+Data explorer
+card data set
+Carbon-Free Electricity in G20 Countries
+Status and the way forward
+Report   — April 2025
+The State of Energy Innovation
+Technology report   — April 2025
+Grid congestion is posing challenges for energy security and transitions
+Commentary   — 25 March 2025
+Building the Future Transmission Grid
+Strategies to navigate supply chain challenges
+Technology report   — February 2025
+Electricity 2025
+Analysis and forecast to 2027
+Fuel report   — February 2025
+Empowering Ukraine Through a Decentralised Electricity System
+A roadmap for Ukraine’s increased use of distributed energy resources towards 2030
+Country report   — December 2024
+Patents for Enhanced Electricity Grids
+A global trend analysis of innovation in physical and smart grids
+Technology report   — December 2024
+Energy Efficiency 2024
+Fuel report   — November 2024
+Real-Time Electricity Tracker
+Explore and compare real-time data on electricity demand, generation and spot prices, trade, and CO2 emissions from more than 50 sources
+Data explorer
+card data set
+What the data centre and AI boom could mean for the energy sector
+Commentary   — 18 October 2024
+World Energy Outlook 2024
+Flagship report   — October 2024
+Europe's clean energy future can only be delivered through unified action
+Commentary   — 15 October 2024
+Energy Policy Inventory
+A snapshot of global energy policies tracking over 5 000 policies in 50 G20 and IEA Family countries
+Data explorer
+card data set
+Electricity Mid-Year Update - July 2024
+Fuel report   — July 2024
+Islands need resilient power systems more than ever. Clean energy can deliver
+Commentary   — 12 July 2024
+Energy Statistics Data Browser
+The most extensive selection of IEA statistics with charts and tables on 16 energy topics for over 170 countries and regions
+Data explorer
+card data set
+Tracking Clean Energy Progress 2023
+Assessing critical energy technologies for global clean energy transitions
+Flagship report   — July 2023
+Europe’s energy crisis: Understanding the drivers of the fall in electricity demand
+Commentary   — 09 May 2023
+New statistics guidebook for universal electricity access aims to help governments reach sustainable energy goal by 2030
+News   — 06 April 2023
+Low-emissions sources are set to cover almost all the growth in global electricity demand in the next three years
+News   — 08 February 2023
+Grid Integration of Electric Vehicles
+A manual for policy makers
+Technology report   — December 2022
+For the first time in decades, the number of people without access to electricity is set to increase in 2022
+Commentary   — 03 November 2022
+Global electricity demand growth is slowing, weighed down by economic weakness and high prices
+Press release   — 20 July 2022
+Market reforms, higher efficiency and increased electricity security are essential for Uzbekistan’s energy transition to succeed, new IEA policy review says
+Press release   — 30 June 2022
+Ukraine Real-Time Electricity Data Explorer
+Real-time data on electricity demand and generation in Ukraine
+Data explorer
+card data set
+Electricity Market Report - January 2022
+Fuel report   — January 2022
+Surging electricity demand is putting power systems under strain around the world
+Press release   — 14 January 2022
+Renewable electricity growth is accelerating faster than ever worldwide, supporting the emergence of the new global energy economy
+Press release   — 01 December 2021
+IEA launches cross-border electricity trading roadmap for Tajikistan to fully benefit from its unique hydropower potential
+Press release   — 16 November 2021
+G7 members have a unique opportunity to lead the world towards electricity sectors with net zero emissions
+Press release   — 20 October 2021
+Key lessons for phasing out CO2-emitting coal plants from electricity sectors
+Commentary   — 19 October 2021
+Statement on recent developments in natural gas and electricity markets
+News   — 21 September 2021
+Distributed energy resources for net zero: An asset or a hassle to the electricity grid?
+Commentary   — 09 September 2021
+Global electricity demand is growing faster than renewables, driving strong increase in generation from fossil fuels
+Press release   — 15 July 2021
+The world’s electricity systems must be ready to counter the growing climate threat
+Commentary   — 12 July 2021
+Global electricity demand to rebound modestly in 2021 after historic shock from pandemic
+Press release   — 14 December 2020
+Levelised Cost of Electricity Calculator
+Interactive table of LCOE estimates from Projected Costs of Generating Electricity 2020
+Data explorer
+card data set
+The global transformation of the electricity sector requires greater efforts to ensure security of supply
+Press release   — 27 October 2020
+Clash of crises: How a climate-resilient electricity system can help us tackle climate change and Covid-19
+Commentary   — 31 July 2020
+Previous slide
+Next slide
+Explore more
+Energy system
+circle-arrow
+Coal
+Natural Gas
+Hydroelectricity
+Solar PV
+Wind
+Nuclear Power
+Demand Response
+Grid-scale Storage
+Smart Grids
+Previous slide
+Next slide
+The Energy Mix
+Get updates on the IEA’s latest news, analysis, data and events delivered twice monthly.
+Error
+Subscribe
+View sample
+Explore our other newsletters
+Browse
+Topics
+Countries & regions
+Energy system
+Programmes
+Explore
+Reports
+Data & statistics
+Learn
+About
+News and commentaries
+Events
+Glossary
+Connect
+Contact
+Press
+Jobs
+arrow-north-east
+Delegates
+arrow-north-east
+Follow
+x (formally twitter)
+facebook
+linkedin
+youtube
+instagram
+bluesky
+IEA
+©IEA 2025
+Terms
+Privacy
+Back to top
+Authors and contributors
+Close dialog
+Lead authors
+Davide D'Ambrosio
+Max Schoenfisch
+Contributors
+David Fischer

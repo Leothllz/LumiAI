@@ -3,13 +3,15 @@
  * LUMI Knowledge Assistant (Node.js)
  * ---------------------------------
  * RAG pipeline minimaliste compatible OpenAI **et** DeepSeek.
+ * (correctif : import de @dqbd/tiktoken via l'export par défaut afin d'éviter
+ *  l'erreur « Named export 'getEncoding' not found ».)
  *
  * Fonctionnalités :
  * 1. Ingestion des fichiers *.txt* / *.md* dans un dossier "data/".
  * 2. Découpage en chunks (~750 tokens, chevauchement 100) avec @dqbd/tiktoken.
  * 3. Génération d'embeddings (OpenAI ou DeepSeek) puis stockage dans un petit
  *    fichier JSON (`index.json`). Aucune dépendance native lourde : la similarité
- *    cosinus est calculée en mémoire ⇒ suffisant pour des bases < 5‐10k chunks.
+ *    cosinus est calculée en mémoire ⇒ suffisant pour des bases < 5‑10k chunks.
  * 4. Chat RAG : recherche des `top‑k` passages, construction d'un prompt strict,
  *    appel au modèle chat choisi, réponse avec citations.
  *
@@ -33,7 +35,9 @@
 import fs from "fs";
 import glob from "fast-glob";
 import readline from "readline";
-import { getEncoding } from "@dqbd/tiktoken";
+// Correctif pour l'import CJS de tiktoken en ESM
+import tiktoken from "@dqbd/tiktoken";
+const { getEncoding } = tiktoken;
 import OpenAI from "openai";
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
@@ -127,10 +131,10 @@ async function chat(query, index, clientChat, clientEmbed, embedModel, chatModel
   const retrieved = await retrieve(query, index, clientEmbed, embedModel, topK);
   const context = retrieved.map((r, i) => `Source ${i + 1}:\n${r.meta.text}`).join("\n\n");
   const systemPrompt =
-    "Tu es LUMI, IA experte et bienveillante spécialisée dans l'\u00e9nergie. " +
+    "Tu es LUMI, IA experte et bienveillante spécialisée dans l'énergie. " +
     "Réponds UNIQUEMENT à partir des informations ci-dessous. Si la réponse n'y figure pas, " +
     "réponds : « Je ne dispose pas de cette information dans ma base ». " +
-    "Réponses concises (\u2264200 mots) en français, cite la source [Source N] quand pertinent.\n\n" +
+    "Réponses concises (≤200 mots) en français, cite la source [Source N] quand pertinent.\n\n" +
     context;
 
   const messages = [
@@ -145,7 +149,7 @@ async function chat(query, index, clientChat, clientEmbed, embedModel, chatModel
 /* ------------------------------------------------------------------------- */
 /*  CLI                                                                     */
 /* ------------------------------------------------------------------------- */
-const argv = yargs(hideBin(process.argv))
+const argv = await yargs(hideBin(process.argv))
   .option("dataDir", { default: "data", type: "string" })
   .option("indexFile", { default: "index.json", type: "string" })
   .option("reindex", { type: "boolean" })
@@ -154,14 +158,15 @@ const argv = yargs(hideBin(process.argv))
   .option("embedModel", { default: "text-embedding-3-small", type: "string" })
   .option("chatModel", { type: "string" })
   .help()
-  .argv;
+  .parseAsync();
 
-const clientEmbed = makeClient(argv.embedProvider);
-const clientChat = makeClient(argv.chatProvider);
 const chatModelName = argv.chatModel || (argv.chatProvider === "deepseek" ? "deepseek-chat" : "gpt-4o-mini");
 
 (async () => {
-  if (argv.reindex || !fs.existsSync(argv.indexFile)) {
+  const clientEmbed = makeClient(argv.embedProvider);
+  const clientChat = makeClient(argv.chatProvider);
+
+  if (argv.reindex) {
     const docs = await loadDocuments(argv.dataDir);
     await buildIndex(docs, clientEmbed, argv.embedModel, argv.indexFile);
   }
@@ -183,4 +188,4 @@ const chatModelName = argv.chatModel || (argv.chatProvider === "deepseek" ? "dee
     rl.prompt();
   }
   rl.close();
-})();
+})().catch(console.error);
