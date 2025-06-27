@@ -48,3 +48,4 @@ export DEEPSEEK_API_KEY="dpk-..."   # if using DeepSeek
 
 Data files (`.txt`/`.md`) go into a `data/` directory.
 
+Pour une description détaillée en français du projet et de ses fichiers, consultez [README_FR.md](README_FR.md).
