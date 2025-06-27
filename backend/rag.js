@@ -22,6 +22,11 @@ export function makeClient(provider) {
     if (!key) throw new Error('OPENAI_API_KEY n\'est pas défini');
     return new OpenAI({ apiKey: key });
   }
+  if (provider === 'openrouter') {
+    const key = process.env.OPENROUTER_API_KEY;
+    if (!key) throw new Error('OPENROUTER_API_KEY n\'est pas défini');
+    return new OpenAI({ apiKey: key, baseURL: 'https://api.openrouter.ai/v1' });
+  }
   if (provider === 'deepseek') {
     const key = process.env.DEEPSEEK_API_KEY;
     if (!key) throw new Error('DEEPSEEK_API_KEY n\'est pas défini');
@@ -32,7 +37,7 @@ export function makeClient(provider) {
     if (!key) throw new Error('GOOGLE_API_KEY n\'est pas défini');
     return new GoogleGenerativeAI(key);
   }
-  throw new Error("provider doit être 'openai', 'deepseek', ou 'google'");
+  throw new Error("provider doit être 'openai', 'deepseek','openrouter', ou 'google'");
 }
 
 // Utiliser le chunking simple sans tiktoken
